@@ -1,3 +1,5 @@
+
+
 const frutas = [];
 const fruta = prompt( 'Feria de mercado ¿ que fruta desea comprar hoy?');
 frutas.push(fruta);
@@ -9,7 +11,7 @@ while(confirm('¿Desea comprar otra fruta?'))
 
 }
 
-
+console.log("compraste ");
 console.log("compraste ");
     
 for (const fruta of frutas )
