@@ -1,6 +1,7 @@
 
 
 const frutas = [];
+const verduras = [];
 const fruta = prompt( 'Feria de mercado ¿ que fruta desea comprar hoy?');
 frutas.push(fruta);
 
